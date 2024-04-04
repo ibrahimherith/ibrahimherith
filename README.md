@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ibrahim Herith. 
+I'm a software developer passionate about creating interactive and engaging user experiences.
+I’m currently learning React Js and building projects as i go.
+
 <!--
 **ibrahimherith/ibrahimherith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
