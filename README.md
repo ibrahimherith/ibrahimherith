@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Ibrahim Herith. 
+### My name is Ibrahim Herith. 
 I'm passionate about creating interactive and engaging user experiences.
 
 <!--
