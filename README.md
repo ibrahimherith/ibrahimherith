@@ -13,7 +13,7 @@ I'm passionate about creating interactive and engaging user experiences.
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -21,8 +21,8 @@ I'm passionate about creating interactive and engaging user experiences.
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - Building server-side applications with Expressjs, a powerful Nodejs web framework.
+  - Diving into MongoDb for efficient and scalable database management.
 
 <!--
  ## 🏆 Achievements
@@ -32,8 +32,7 @@ I'm passionate about creating interactive and engaging user experiences.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/itsibrah_)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
