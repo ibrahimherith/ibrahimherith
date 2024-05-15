@@ -13,7 +13,7 @@ I'm passionate about creating interactive and engaging user experiences.
 -->
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs, php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,reactjs,php)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
